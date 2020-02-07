@@ -5,8 +5,8 @@ define('SITE_NAME', 'youtube');
 define('TITLENAME', 'youtube');
 define('EN2DEKEY', '32123wwerwertgfdgds');
 define('EMAIL', 'sydx8616@gmail.com');
-define('NAME', '123456');
-define('PASSWORD', '123456');
+define('NAME', '');
+define('PASSWORD', '');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
