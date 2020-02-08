@@ -187,10 +187,8 @@ $header='
         <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
     </head>
      <body style="background-color: #f8f8f8;">
-       
            <img src="https://'.$_SERVER['SERVER_NAME'].'/2.png" alt="logo" style="height:35px;margin: 10px 0" />
         </div>';
-
         </body>
 </html>';
 
