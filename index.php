@@ -191,6 +191,7 @@ $header='
            <img src="https://'.$_SERVER['SERVER_NAME'].'/2.png" alt="logo" style="height:35px;margin: 10px 0" />
         </div>';
 $footer='<footer class="w3-container w3-red w3-center" style="width: 100%;bottom: 0px;">
+            <p>©Development by <a href="https://2tube.js.org/" target="_blank">YOU2PHP</a></p>
         </footer>
         </body>
 </html>';
