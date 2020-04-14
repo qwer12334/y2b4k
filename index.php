@@ -23,6 +23,7 @@ if(!isset($_SESSION['ok'])){
         <button type="submit" class="but">登陆</button>
     </form>
     </p >
+    
 </body>
 </html>');
 }
