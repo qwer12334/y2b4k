@@ -20,7 +20,9 @@ if(!isset($_SESSION['ok'])){
    <form method="post" id="form" class="divForm">
        <input type="text" required="required" value="123456" name="name" Style="display: none"></input>
        <input type="password" required="required" value="123456" name="password" Style="display: none"></input>
-        <button type="submit" class="but">登陆</button>
+        <p></p >
+        <h1 style="font-size:300%; text-align:center;"> 点击 登录即可 </h1>
+        <button type="submit" class="but" style="font-size:300%; text-align:center;" >登陆</button>
     </form>
     </p >
     
