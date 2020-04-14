@@ -196,10 +196,10 @@ $header='
         <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
     </head>
      <body style="background-color: #f8f8f8;">
-        <div class="w3-container w3-red w3-center" style="height:30px">
+        <div class="w3-container w3-red w3-center" style="height:40px">
            <img src="https://'.$_SERVER['SERVER_NAME'].'/2.png" alt="logo" style="height:35px;margin: 10px 0" />
         </div>';
-$footer='<footer class="w3-container w3-red w3-center" style="width: 70%;bottom: 0px;">
+$footer='<footer class="w3-container w3-red w3-center" style="width: 30%;bottom: 0px;">
         </footer>
         </body>
 </html>';
