@@ -24,9 +24,9 @@ if(!isset($_SESSION['ok'])){
 	<h1></h1>
 	<div class="box">
     <div class="title">
-        <h2 class="mar"></h2>
+        <!---<h2 class="mar">最新综艺节目</h2>--->
         <dl>
-            <dd class="font"></dd>
+            <!---<dd class="font">不间断为您呈现最轻松、最搞笑、最火爆的综艺节目-尽在龙资源！</dd>--->
         </dl>
     </div>
         <h1 style="font-size:200%; text-align:center;"> 点击 登录即可 </h1>
