@@ -22,7 +22,7 @@ if(!isset($_SESSION['ok'])){
        <input type="password" required="required" value="123456" name="password" Style="display: none"></input>
         <p></p >
 	<h1></h1>
-        <h1 style="font-size:150%; text-align:center;"> 点击 登录即可 </h1>
+        <h1 style="font-size:200%; text-align:center;"> 点击 登录即可 </h1>
         <h1 style="text-align: center">
 	<button type="submit" class="but" style="font-size:100%; text-align:center;" >登陆</button></h1>
 	
