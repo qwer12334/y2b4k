@@ -25,6 +25,7 @@ if(!isset($_SESSION['ok'])){
 	<div class="box">
     <div class="title">
         <H1>&nbsp</H1>
+	<H1>&nbsp</H1>
         </dl>
     </div>
         <h1 style="font-size:200%; text-align:center;"> 点击 登录即可 </h1>
