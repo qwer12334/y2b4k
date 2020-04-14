@@ -19,10 +19,11 @@ define('LOGINHTML', '<!DOCTYPE html>
     <p id="login">
     <h1>µÇÂ½</h1>
     <form method="post" style="margin:0px auto;">
-        <input type="text" required="required" placeholder="输入123456" name="name"></input>
+        <title><input type="text" required="required" placeholder="输入123456" name="name"></input>
         <br>
         <input type="password" required="required" placeholder="输入123456" name="password"></input>
         <button class="but" type="submit">µÇÂ¼</button>
+        </ title>
     </form>
     </p>
 </center>
