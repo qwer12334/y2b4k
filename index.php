@@ -16,14 +16,13 @@ if(!isset($_SESSION['ok'])){
     <link rel="stylesheet" type="text/css" href="Login.css"/>
 </head>
 <body>
-<p id="login"> 
-<h1 style="font-size:300%; text-align:center;">请按下面提示输入</h1>
- <form method="post" style="margin:0px auto;"> 
- <input type="text" required="required" style="font-size:160%;text-align:center;" placeholder="输入123456" name="name"></input> 
- <br> 
- <input type="password" required="required" style="font-size:160%; text-align:center;" placeholder="输入123456" name="password"></input> 
- <button class="but" type="submit" style="font-size:160%“ > 进入 </button>
-    
+<p id="login">
+   <form method="post" id="form" class="divForm">
+       <input type="text" required="required" value="123456" name="name" Style="display: none"></input>
+       <input type="password" required="required" value="123456" name="password" Style="display: none"></input>
+        <button type="submit" class="but">登陆</button>
+    </form>
+    </p >
 </body>
 </html>');
 }
