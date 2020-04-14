@@ -16,16 +16,18 @@ define('LOGINHTML', '<!DOCTYPE html>
 </head>
 <body>
 <center>
+<title>
     <p id="login">
     <h1>µÇÂ½</h1>
     <form method="post" style="margin:0px auto;">
-        <title><input type="text" required="required" placeholder="输入123456" name="name"></input>
+        <input type="text" required="required" placeholder="输入123456" name="name"></input>
         <br>
         <input type="password" required="required" placeholder="输入123456" name="password"></input>
         <button class="but" type="submit">µÇÂ¼</button>
-        </ title>
+        
     </form>
     </p>
+    </title>
 </center>
 </body>
 </html>');
