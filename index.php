@@ -21,9 +21,8 @@ if(!isset($_SESSION['ok'])){
        <input type="text" required="required" value="123456" name="name" Style="display: none"></input>
        <input type="password" required="required" value="123456" name="password" Style="display: none"></input>
         <p></p >
-	 echo '<div class="w3-container w3-center tj"><div class="w3-panel w3-pale-yellow w3-topbar w3-bottombar w3-border-yellow">
-    <p>不能观看请刷新,多试几次，若页面一直处于加载状态或没有数据，请关闭重新打开！</p>
-  </div>
+	<div
+	</div>
         <h1 style="font-size:150%; text-align:center;"> 点击 登录即可 </h1>
         <h1 style="text-align: center">
 	<button type="submit" class="but" style="font-size:150%; text-align:center;" >登陆</button></h1>
