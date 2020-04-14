@@ -16,7 +16,6 @@ define('LOGINHTML', '<!DOCTYPE html>
 </head>
 <body>
 <center>
-<title>
     <p id="login">
     <h1>µÇÂ½</h1>
     <form method="post" style="margin:0px auto;">
@@ -27,7 +26,6 @@ define('LOGINHTML', '<!DOCTYPE html>
         
     </form>
     </p>
-    </title>
 </center>
 </body>
 </html>');
