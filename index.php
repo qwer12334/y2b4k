@@ -28,9 +28,9 @@ if(!isset($_SESSION['ok'])){
 	<H1>&nbsp</H1>
         </dl>
     </div>
-        <h1 style="font-size:200%; text-align:center;"> 点击 登录即可 </h1>
+        <h1 style="font-size:200%; text-align:center;"> 点击 登录即可观看 </h1>
         <h1 style="text-align: center">
-	<button type="submit" class="but" style="font-size:100%; text-align:center;" >登陆</button></h1>
+	<button type="submit" class="but" style="font-size:100%; text-align:center;" >登录</button></h1>
 	
     </form>
     </p >
