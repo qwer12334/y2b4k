@@ -1,5 +1,5 @@
 <?php
-define('APIKEY', 'AIzaSyAvOc71ksO7Ip7pRXQrrReNu8V4HIQeUcY');
+define('APIKEY', 'AIzaSyBd40l1y2uLSJy1uRXZ8dY746Q5G5V5RoE');
 define('GJ_CODE', 'HK');
 define('SITE_NAME', 'youtube');
 define('TITLENAME', 'youtube');
